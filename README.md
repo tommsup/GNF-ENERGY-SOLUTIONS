@@ -1,2 +1,2 @@
-# jenkins-sonarqube-docker
+# git-jenkins
 this is for practice purpose
